@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4Z9l9t.webp"},
+  {"desc2":"Black Russia RP Helper is a digital companion designed to assist players in their tabletop RPG adventures, ","photo2":"https://iili.io/H4Qyp87.jpg"},
+  {"desc3":"specifically focused on games set in the dark and mysterious world of Black Russia. It acts as a comprehensive resource guide, rulebook, and game master's aid","photo3":"https://iili.io/H4Z9999.jpg"},
+  {"desc4":"In tabletop RPGs, the game master (GM) plays a crucial role in creating and facilitating the game's narrative","photo4":"https://iili.io/H4QymaS.jpg"},
+  {"desc5":"Black Russia RP Helper recognizes the challenges faced by GMs and provides them with an array of tools to streamline their storytelling","photo5":"https://iili.io/H4Z9Hue.jpg"},
+  {"descd":"manage game mechanics, and enrich the gaming experience for the entire group.","photod":"https://iili.io/H4Z9Jwu.jpg"}
    ]
  
 }
